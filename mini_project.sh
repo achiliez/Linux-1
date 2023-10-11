@@ -1,4 +1,3 @@
-
 source_dir="/path/to/source"
 backup_dir="/path/to/backup"
 
